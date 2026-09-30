@@ -29,6 +29,10 @@ export const metadata: Metadata = {
     locale: "en_US",
     siteName: "BoardingLK",
   },
+  icons: {
+    icon: "/images/logo.png",
+    apple: "/images/logo.png",
+  },
 };
 
 export default function RootLayout({
